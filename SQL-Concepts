@@ -249,7 +249,7 @@ CREATE VIEW trainer AS
 SELECT course_name, trainer     
  FROM courses;  
  
-Here a View is created to see course_name and trainer from table courses .
+Here a View is created to see course_name and trainer from table courses
 
 SQL Cursor
 
